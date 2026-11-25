@@ -8,3 +8,6 @@ Lizenzdatei des Herstellers. Aufbereitung (glb, Maßstab, Kollision, Vorschaubil
 Erlaubt sind nur CC0 sowie MIT, Apache, BSD, zlib; Schriften OFL. Nie: Synty, Mixamo, KI-erzeugte Inhalte
 ohne Entscheidung. Jedes Pack wird in `QUELLEN.md` mit Quelle, Commit und Lizenz eingetragen, bevor es
 hierher kommt.
+
+Klänge (seit 25.11.2026) liegen ebenso als `<hersteller>/<pack>/` (OGG, WAV). Wo die Quelle nur FLAC oder MP3
+bietet, ist die Datei nach OGG umgewandelt; das steht in `QUELLEN.md` und in der `LICENSE.txt` des Packs.
