@@ -1,0 +1,10 @@
+Park ambiences
+von Thimras, veröffentlicht auf OpenGameArt.org
+Quelle: https://opengameart.org/content/park-ambiences
+Geladen am 25.11.2026.
+
+Lizenz: Creative Commons Zero (CC0 1.0), laut Seite der Quelle.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Die drei WAV-Aufnahmen (48 kHz, zusammen 260 MB) wurden mit ffmpeg (Vorbis, Qualität 6) nach OGG
+umgewandelt, damit sie ins Repo passen. Sonst unverändert.

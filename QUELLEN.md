@@ -48,6 +48,7 @@ FLAC und MP3 sind nach OGG umgewandelt (Vorbis, Qualität 6), sonst alles unver�
 | opengameart/loopable-dungeon-ambience | Loopable Dungeon Ambience | JaggedStone | opengameart.org/content/loopable-dungeon-ambience (Download 25.11.2026) | CC0 1.0 | 1 Klänge | Höhle, Wind und Tropfen (Schleife) |
 | opengameart/magic-spell-sfx | Magic Spell SFX | JaggedStone | opengameart.org/content/magic-spell-sfx (Download 25.11.2026) | CC0 1.0 | 7 Klänge | Zauber |
 | opengameart/nhfea-sound | NHFEA Sound | Roars Games | opengameart.org/content/nhfea-sound (Download 25.11.2026) | CC0 1.0 | 34 Klänge | Gemischt (Spiel-Klänge) |
+| opengameart/park-ambiences | Park ambiences | Thimras | opengameart.org/content/park-ambiences (Download 25.11.2026) | CC0 1.0 | 3 Klänge | Aufnahmen: Vögel vor Regen, Bach mit Fröschen, Wind auf freiem Feld (4 bis 9 min) |
 | opengameart/rain-long-thunder | Rain, long thunder | WuxiaScrub | opengameart.org/content/rain-long-thunder (Download 25.11.2026) | CC0 1.0 | 1 Klänge | Regen mit Donner |
 | opengameart/rain-loopable | Rain (loopable) | Ylmir | opengameart.org/content/rain-loopable (Download 25.11.2026) | CC0 1.0 | 4 Klänge | Regen (Schleifen) |
 | opengameart/rpg-sound-pack | RPG Sound Pack | artisticdude | opengameart.org/content/rpg-sound-pack (Download 25.11.2026) | CC0 1.0 | 96 Klänge | Kampf, Zauber, Gegenstände, Monster, Oberfläche |
