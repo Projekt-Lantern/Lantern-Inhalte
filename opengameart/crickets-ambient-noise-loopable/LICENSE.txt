@@ -1,0 +1,10 @@
+Crickets Ambient Noise - loopable
+von Wolfgang_, veröffentlicht auf OpenGameArt.org
+Quelle: https://opengameart.org/content/crickets-ambient-noise-loopable
+Geladen am 25.11.2026.
+
+Lizenz: Creative Commons Zero (CC0 1.0), laut Seite der Quelle.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Dateien im Format FLAC oder MP3 wurden mit ffmpeg (Vorbis, Qualität 6) nach OGG umgewandelt,
+weil die Startinhalte nur OGG und WAV führen. Alles andere ist unverändert.
